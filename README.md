@@ -38,15 +38,17 @@ Breakout & Volume Validation
         ↓
 Scoring & Ranking
         ↓
-Shortlisted Candidates
-Technology
+Shortlisted Candidates\
+
+## Technology
 Python
 Pandas
 NumPy
 yfinance
 Technical indicator calculations
-GitHub
-Project Structure
+
+
+## Project Structure
 ├── config/
 │   ├── indices.txt
 │   ├── stock_sector_map.csv
@@ -62,7 +64,8 @@ Project Structure
 │
 ├── requirements.txt
 └── run_all.py
-Purpose
+
+##Purpose
 
 This project was built as a research and screening tool to automate a repeatable process for identifying technically strong stocks and reducing manual effort in equity market analysis.
 
